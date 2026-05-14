@@ -1,4 +1,5 @@
 # GitHub for Absolute Beginners
+Cheng Yin
 
 A step-by-step guide for students using **VS Code** or **Google Antigravity** with the GitHub extension.
 
